@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-# Project: Creating and Configuring an osTicket System on Microsoft Azure
+# Creating and Configuring an osTicket System on Microsoft Azure
 
 ## Objective
 To set up and configure a comprehensive ticketing system using osTicket hosted on a Windows 10 virtual machine within Microsoft Azure.
